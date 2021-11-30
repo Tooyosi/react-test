@@ -1,0 +1,40 @@
+.main{
+  min-height: 70vh;
+  overflow: auto;
+}
+.main-header{
+  /* font-family: Gilroy;
+  font-style: normal; */
+  font-weight: lighter;
+  font-size: 57.85px;
+  line-height: 69px;
+  letter-spacing: -0.9px;
+}
+
+b{
+  font-weight: 900;
+}
+
+*{
+  color: #22215B;
+}
+.btn-warning{
+  background-color: #F7A02C;
+  font-size: 25px !important;
+}
+
+.corner-img {
+  /* position: absolute;
+  left: 420px; */
+  position: absolute;
+  margin-left: 51px;
+  top: -15px;
+}
+
+.footer{
+  /* position: absolute; */
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
